@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <id>101</id>
+        <name>Rahul</name>
+        <course>BCA</course>
+        <semester>3</semester>
+        <email>rahul@gmail.com</email>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <id>102</id>
+        <name>Priya</name>
+        <course>BCA</course>
+        <semester>3</semester>
+        <email>priya@gmail.com</email>
+        <marks>90</marks>
+    </student>
+
+    <student>
+        <id>103</id>
+        <name>Aman</name>
+        <course>BCA</course>
+        <semester>3</semester>
+        <email>aman@gmail.com</email>
+        <marks>78</marks>
+    </student>
+
+    <student>
+        <id>104</id>
+        <name>Neha</name>
+        <course>BCA</course>
+        <semester>3</semester>
+        <email>neha@gmail.com</email>
+        <marks>88</marks>
+    </student>
+
+    <student>
+        <id>105</id>
+        <name>Rohan</name>
+        <course>BCA</course>
+        <semester>3</semester>
+        <email>rohan@gmail.com</email>
+        <marks>92</marks>
+    </student>
+</students>

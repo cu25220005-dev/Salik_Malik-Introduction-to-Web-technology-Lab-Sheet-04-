@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Information</title>
+</head>
+<body>
+
+    <h1 id="heading">Student Details</h1>
+
+    <p class="student">Rahul - BCA</p>
+    <p class="student">Priya - BCA</p>
+    <p class="student">Aman - BCA</p>
+
+    <script>
+        // getElementById()
+        let heading = document.getElementById("heading");
+        console.log(heading.innerHTML);
+
+        // getElementsByTagName()
+        let paragraphs = document.getElementsByTagName("p");
+
+        for (let i = 0; i < paragraphs.length; i++) {
+            console.log(paragraphs[i].innerHTML);
+        }
+
+        // querySelector()
+        let firstStudent = document.querySelector(".student");
+        alert(firstStudent.innerHTML);
+
+    </script>
+
+</body>
+</html>

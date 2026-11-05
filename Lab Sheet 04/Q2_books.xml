@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <book>
+        <id>1</id>
+        <title>Python Programming</title>
+        <author>John Smith</author>
+        <publisher>ABC Publications</publisher>
+        <price>450</price>
+        <category>Programming</category>
+    </book>
+
+    <book>
+        <id>2</id>
+        <title>Java Basics</title>
+        <author>James Gosling</author>
+        <publisher>Tech Books</publisher>
+        <price>500</price>
+        <category>Programming</category>
+    </book>
+
+    <book>
+        <id>3</id>
+        <title>Web Development</title>
+        <author>David Miller</author>
+        <publisher>XYZ Publications</publisher>
+        <price>350</price>
+        <category>Web Technology</category>
+    </book>
+
+    <book>
+        <id>4</id>
+        <title>Database Management</title>
+        <author>Raghu Ramakrishnan</author>
+        <publisher>Education Press</publisher>
+        <price>600</price>
+        <category>Database</category>
+    </book>
+
+    <book>
+        <id>5</id>
+        <title>Machine Learning</title>
+        <author>Tom Mitchell</author>
+        <publisher>Learning Press</publisher>
+        <price>700</price>
+        <category>Artificial Intelligence</category>
+    </book>
+</books>
